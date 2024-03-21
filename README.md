@@ -12,8 +12,10 @@
      <img width="70%" height="195px" src="https://github-readme-streak-stats-blush.vercel.app/?user=arthurpestana&count_private=true&theme=transparent&hide_border=true"/>
 </div>
 <br>
+
 ### **Skills and Tools**  
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,nodejs,git,github,vscode,python,mysql,linux,&perline=13)](#)
+
 <br>
 <div align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
