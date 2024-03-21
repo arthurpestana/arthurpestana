@@ -9,7 +9,7 @@
 </div>
 
 <div>
- <img width="41%" height="195px" src="https://github-readme-streak-stats-blush.vercel.app/?user=arthurpestana&count_private=true&theme=dark&hide_border=true&title_color=288CB8FF&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+ <img width="41%" height="195px" src="https://github-readme-streak-stats-blush.vercel.app/?user=arthurpestana&count_private=true&theme=transparent&hide_border=true&title_color=288CB8FF&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
 <p align="center">
