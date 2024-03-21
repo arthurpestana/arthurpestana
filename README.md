@@ -4,8 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arthurschneider355@gmail.com)](mailto:arthurschneider355@gmail.com)
 
 <div>
- <img width="42%" src="https://bad-apple-github-readme.vercel.app/api?username=arthurpestana&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff"/>
- <img width="50%" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=arthurpestana&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff"/>
+ <img width="70%" src="https://bad-apple-github-readme.vercel.app/api?username=arthurpestana&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff"/>
+ <img width="30%" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=arthurpestana&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff"/>
 </div>
 [![Arthur Pestana's GitHub Stats](https://bad-apple-github-readme.vercel.app/api?username=arthurpestana&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
