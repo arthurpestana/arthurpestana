@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arthurschneider355@gmail.com)](mailto:arthurschneider355@gmail.com)]
 
 ### **Skills and Tools**  
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,nodejs,git,github,vscode,python,styledcomponents,&perline=13)](#)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,nodejs,git,github,vscode,python,mysql,linux,&perline=13)](#)
 
 ### Github Stats ⚡
 
