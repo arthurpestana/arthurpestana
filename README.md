@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-     [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,nodejs,git,github,vscode,python,mysql,linux,&perline=13)](#)
+     <img src="https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,nodejs,git,github,vscode,python,mysql,linux,&perline=13"/>
 </div>
 
 <br>
