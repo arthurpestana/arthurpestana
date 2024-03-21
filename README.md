@@ -15,10 +15,11 @@
 </div>
 <br>
 
-### **Skills and Tools**  
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,nodejs,git,github,vscode,python,mysql,linux,&perline=13)](#)
+<div align="center">
+     [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,nodejs,git,github,vscode,python,mysql,linux,&perline=13)](#)
+</div>
 
 <br>
 <div align="center">
-     <img width="70%" height="195px" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
