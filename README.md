@@ -4,8 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arthurschneider355@gmail.com)](mailto:arthurschneider355@gmail.com)
 
 <div>
- <img width="49%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=arthurpestana&theme=dark&show_icons=true"/>
- <img width="41%" height="195px" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=arthurpestana&layout=compact&hide_border=true&title_color=288CB8FF&text_color=00bfbf&bg_color=0d1117"/>
+ <img width="49%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=arthurpestana&theme=holi&show_icons=true"/>
+ <img width="41%" height="195px" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=arthurpestana&theme=holi&show_icons=true"/>
 </div>
 
 <div>
