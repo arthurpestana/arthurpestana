@@ -9,7 +9,8 @@
      <img width="41%" height="195px" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=arthurpestana&layout=compact&theme=transparent&hide_border=true&title_color=288CB8FF&text_color=00bfbf&bg_color=0d1117"/>
 </div>
 <br>
-
+<br>
+<br>
 
 <div align="center">
      <img src="https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,nodejs,git,github,vscode,python,mysql,linux,&perline=13"/>
