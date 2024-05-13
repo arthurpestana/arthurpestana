@@ -1,5 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Star+Jedi&duration=4000&pause=&color=159FF7&vCenter=true&repeat=false&random=false&width=435&lines=Hi...+I'm+Arthur.)
-<br>
 [![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-henrique-pestana-schneider-46479626b/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arthurschneider355@gmail.com)](mailto:arthurschneider355@gmail.com)
 <br>
@@ -10,12 +8,6 @@
 </div>
 <br>
 <br>
-<br>
-
-<div align="center">
-     <img src="https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,nodejs,git,github,vscode,python,mysql,linux,&perline=13"/>
-</div>
-
 <br>
 <div align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
